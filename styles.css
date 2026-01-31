@@ -1,0 +1,11 @@
+body {
+    color: white;
+  background-color: #000000; /* Use a color name, hex code, or RGB value */
+}
+
+div {
+  width: 300px;
+  border: 15px #212121;
+  padding: 50px;
+  margin: 20px;
+}
