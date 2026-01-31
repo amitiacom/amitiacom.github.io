@@ -4,6 +4,7 @@ body {
 }
 
 div {
+  background-color: 333333;
   width: 300px;
   border: 15px;
   border-style: solid;
