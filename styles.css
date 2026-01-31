@@ -5,7 +5,9 @@ body {
 
 div {
   width: 300px;
-  border: 15px 212121;
+  border: 15px;
+  border-style: solid;
+  border-color: 333333;
   padding: 50px;
   margin: 20px;
 }
