@@ -6,11 +6,11 @@ body {
 div {
   background-color: 242424;
   width: 300px;
-  border: 15px;
+  border: 5px;
   border-style: solid;
   border-color: 242424;
-  padding: 50px;
-  margin: 20px;
+  padding: 20px;
+  margin: 10px;
 }
 
 a {
