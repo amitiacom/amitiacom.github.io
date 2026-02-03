@@ -19,3 +19,12 @@
         </div>
     </body>
 </html>
+
+<script>
+    window.addEventListener("message", (event) => {
+  if (event.data.type === "changeMusic") {
+    bgm.src = event.data.track;
+    bgm.play();
+  }
+});
+</script>
